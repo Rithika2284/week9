@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: kubedemoapp
-          image: vemularithika2284/week9:k2
+          image: vemularithika7/week9:k2
           ports:
             - containerPort: 5000
